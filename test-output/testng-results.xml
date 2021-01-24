@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-01-24T13:49:40 PKT" name="Default suite" finished-at="2021-01-24T13:51:01 PKT" duration-ms="81200">
+    <groups>
+    </groups>
+    <test started-at="2021-01-24T13:49:40 PKT" name="Default test" finished-at="2021-01-24T13:51:01 PKT" duration-ms="81200">
+      <class name="WeRPlayAssignemnts.Task2">
+        <test-method is-config="true" signature="setuptest()[pri:0, instance:WeRPlayAssignemnts.Task2@3901d134]" started-at="2021-01-24T13:49:40 PKT" name="setuptest" finished-at="2021-01-24T13:49:44 PKT" duration-ms="4464" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setuptest -->
+        <test-method signature="Facebook()[pri:0, instance:WeRPlayAssignemnts.Task2@3901d134]" started-at="2021-01-24T13:49:44 PKT" name="Facebook" finished-at="2021-01-24T13:50:22 PKT" duration-ms="37248" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Facebook -->
+        <test-method is-config="true" signature="invokeScreenshotMethod(org.testng.ITestResult)[pri:0, instance:WeRPlayAssignemnts.Task2@3901d134]" started-at="2021-01-24T13:50:22 PKT" name="invokeScreenshotMethod" finished-at="2021-01-24T13:50:22 PKT" duration-ms="6" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Facebook status=SUCCESS method=Task2.Facebook()[pri:0, instance:WeRPlayAssignemnts.Task2@3901d134] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invokeScreenshotMethod -->
+        <test-method signature="Designerfilter()[pri:1, instance:WeRPlayAssignemnts.Task2@3901d134]" started-at="2021-01-24T13:50:22 PKT" name="Designerfilter" finished-at="2021-01-24T13:50:41 PKT" duration-ms="19405" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Designerfilter -->
+        <test-method is-config="true" signature="invokeScreenshotMethod(org.testng.ITestResult)[pri:0, instance:WeRPlayAssignemnts.Task2@3901d134]" started-at="2021-01-24T13:50:41 PKT" name="invokeScreenshotMethod" finished-at="2021-01-24T13:50:41 PKT" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Designerfilter status=SUCCESS method=Task2.Designerfilter()[pri:1, instance:WeRPlayAssignemnts.Task2@3901d134] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invokeScreenshotMethod -->
+        <test-method signature="Viewmorebutton()[pri:2, instance:WeRPlayAssignemnts.Task2@3901d134]" started-at="2021-01-24T13:50:41 PKT" name="Viewmorebutton" finished-at="2021-01-24T13:51:01 PKT" duration-ms="19912" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Viewmorebutton -->
+        <test-method is-config="true" signature="invokeScreenshotMethod(org.testng.ITestResult)[pri:0, instance:WeRPlayAssignemnts.Task2@3901d134]" started-at="2021-01-24T13:51:01 PKT" name="invokeScreenshotMethod" finished-at="2021-01-24T13:51:01 PKT" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Viewmorebutton status=SUCCESS method=Task2.Viewmorebutton()[pri:2, instance:WeRPlayAssignemnts.Task2@3901d134] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invokeScreenshotMethod -->
+      </class> <!-- WeRPlayAssignemnts.Task2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
